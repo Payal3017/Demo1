@@ -9,8 +9,3 @@ To start with git hub
 Clone your repository
 - git clone git_path
 
-Chapter 2:
-To push the changes to your repo
-- git add .
-- git commit -m "message to commit"
-- git push 
